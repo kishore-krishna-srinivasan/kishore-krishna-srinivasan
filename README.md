@@ -14,7 +14,7 @@ I enjoy turning complex requirements, datasets and technical problems into pract
 
 ## Selected Work
 
-**☁️ Cloud Financial Risk Analysis API**  
+### ☁️ Cloud Financial Risk Analysis API  
 Built a **multi-cloud financial risk analysis application** using Google App Engine, AWS Lambda, EC2 and S3, combining REST APIs, Monte Carlo simulation and Value at Risk analysis.
 
 ### 🌍 Urban Air Quality AI Framework
