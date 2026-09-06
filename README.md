@@ -14,14 +14,14 @@ I enjoy turning complex requirements, datasets and technical problems into pract
 
 ## Selected Work
 
-### 🏇 Horse Race Outcome Prediction
-Analysed a **744K+ row, 42-feature dataset** using R, applying data cleaning, feature selection, statistical analysis, cross-validation and multiple machine learning approaches to evaluate race outcomes.
-
 ### 🌍 Urban Air Quality AI Framework
 Analysed **1.8M+ environmental observations** across traffic, weather and air-quality data, combining data engineering, predictive modelling and explainable AI to investigate factors influencing air quality.
 
 ### 🩺 Healthcare & Telecom AI Decision Support
 Developed predictive decision-support models for **telecom customer churn and healthcare stroke-risk assessment**, applying data preprocessing, feature engineering, class balancing and multiple machine learning approaches to evaluate predictive performance and support interpretable decision-making.
+
+### 🏇 Horse Race Outcome Prediction
+Analysed a **744K+ row, 42-feature dataset** using R, applying data cleaning, feature selection, statistical analysis, cross-validation and multiple machine learning approaches to evaluate race outcomes.
 
 ### 🧬 Biomedical NLP
 Built a biomedical named-entity recognition pipeline using Python and machine learning, achieving **0.8646 micro-F1** and developing a FastAPI inference service with validation and error handling.
